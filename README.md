@@ -3,7 +3,6 @@
 Java Swing desktop application for a university library circulation workflow. The system manages library items, users, borrowing and return operations, reservations, search/sort algorithms, reports, and file persistence.
 
 **Course:** COS 202  
-**Institution:** MIVA Open University  
 **Project:** Smart Library Circulation & Automation System
 
 ## Features

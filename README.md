@@ -128,19 +128,3 @@ javac -cp out -d out tools/GuiScreenshotRunner.java
 java -cp out GuiScreenshotRunner gui-screenshots
 ```
 
-## Submission Files
-
-Recommended submission package:
-
-- PDF report containing the description, features, data structures, algorithms, screenshots, and UML/class hierarchy
-- GitHub repository link for full source code
-- Optional ZIP file of the source folder if the portal accepts extra files
-
-See [`SUBMISSION_CHECKLIST.md`](SUBMISSION_CHECKLIST.md) for a concise checklist.
-
-## Documentation
-
-- [`REPORT.md`](REPORT.md): 2-3 page project report content
-- [`CLASS_HIERARCHY.md`](CLASS_HIERARCHY.md): UML-style Mermaid class diagram
-- [`SUBMISSION_CHECKLIST.md`](SUBMISSION_CHECKLIST.md): final submission checklist
-
